@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>Cards</h2>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&hide=stars,contribs&show_icons=true&theme=jolly" />
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&hide=stars,contribs&show_icons=true&theme=jolly" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&layout=compact" />
