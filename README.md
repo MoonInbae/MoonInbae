@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&hide=contribs,prs)
 ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true)
 ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&show_icons=true)
-[![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae)](https://github.com/MoonInbae/github-readme-stats)
-![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae)](https://github.com/MoonInbae/github-readme-stats)
