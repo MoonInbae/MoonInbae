@@ -66,11 +66,12 @@ Here are some ideas to get you started:
 
 <h3>Database</h3>
 
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?&style=for-the-badge&logo=microsoft-access&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <h3>Tool</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img alt="Python" src ="https://img.shields.io/badge/Microsoft Access-A4373A.svg?&style=for-the-badge&logo=Microsoft Access&logoColor=red"/>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
