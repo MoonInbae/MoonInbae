@@ -51,17 +51,24 @@ Here are some ideas to get you started:
  <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<h2>기술 스택</h2>
+<h2>Stack</h2>
 
-사용언어
+<h3>Language</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)	
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![OpenJDK](https://img.shields.io/badge/OpenJDK-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)	
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
-사용툴
+<h3>Database</h3>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+<h3>Tool</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
