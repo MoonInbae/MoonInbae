@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
+<h3>ETC</h3>
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
