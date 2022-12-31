@@ -65,18 +65,25 @@ Here are some ideas to get you started:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+<!-- React -->
+<!-- swift -->
 
 <h3>Database</h3>
 
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?&style=for-the-badge&logo=microsoft-access&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<!-- oracleSQL -->
 
 <h3>Tool</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
+<!-- intellij -->
+<!-- xcode -->
 
 <h3>ETC</h3>
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+<!-- aws -->
+<!-- back4app -->
