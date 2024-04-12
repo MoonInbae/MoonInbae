@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white)
 <!-- xcode -->
