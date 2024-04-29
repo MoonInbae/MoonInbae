@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋
 <hr>
 <p>MYONGJI UNIV. CONVERGENCE SOFTWARE ENGINEERING</p>
 <p>2020.03 ~ : 명지대 융합소프트웨어학부 응용소프트웨어전공</p>
