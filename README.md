@@ -1,5 +1,7 @@
 ### Hi there 👋
 <hr>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonInbae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+World%21&edge_flat=false)](https://hits.seeyoufarm.com)
+<hr>
 <p>MYONGJI UNIV. CONVERGENCE SOFTWARE ENGINEERING</p>
 <p>2020.03 ~ ing : 명지대 융합소프트웨어학부 응용소프트웨어전공</p>
 <p>2021.03 ~ 2021.07 : Build - 명지대 교내 앱 개발 동아리
