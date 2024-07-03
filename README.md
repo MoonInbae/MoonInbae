@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 <!--   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=jolly" /> -->
   
-  ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=false&show_icons=true&theme=jolly")
+  [![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark)](https://github.com/MoonInbae/github-readme-stats)
   
 <!--   </a> -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
