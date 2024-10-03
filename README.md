@@ -129,3 +129,7 @@ Here are some ideas to get you started:
 <!-- back4app -->
 
 <h2>Project</h3>
+
+| 프로젝트명 | 역할 | 개발 기간 |
+| --- | --- | --- |
+| [재난 생존기](https://github.com/Have-a-good-life) | 백엔드 개발자 | 2024.06 ~ 2024.06 |
