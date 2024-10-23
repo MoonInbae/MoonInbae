@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 <!--   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=jolly" /> -->
   
   ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&langs_count=9&layout=compact&theme=dark)
   
 <!--   </a> -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&layout=compact" />
+<!--  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&layout=compact" /> -->
 <!--   </a> -->
 <!--   <a href="https://solved.ac/cco2416/">
     <img alt="solved-ac rank" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416" />
@@ -75,6 +76,7 @@ Here are some ideas to get you started:
 
 <h3>Language</h3>
 
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -122,13 +124,16 @@ Here are some ideas to get you started:
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<h3>ETC</h3>
+<h3>Infra</h3>
 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=#6DB33F)
+![Github Actions](https://img.shields.io/badge/Github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- back4app -->
 
 <h2>Project</h3>
