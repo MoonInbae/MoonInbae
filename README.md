@@ -36,16 +36,17 @@ Here are some ideas to get you started:
 <h2>Cards</h2>
 
 <p>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 <!--   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=jolly" /> -->
-  
-  ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&langs_count=9&layout=compact&theme=dark)
-  
-<!--   </a> -->
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-<!--  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&layout=compact" /> -->
-<!--   </a> -->
+
+<!-- ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark\&include_all_commits=true) -->
+<!-- ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark\&rank_icon=percentile) -->
+<!-- ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=percentile) -->
+<!-- ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
+![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&langs_count=9&layout=compact&theme=dark) -->
+
+
 <!--   <a href="https://solved.ac/cco2416/">
     <img alt="solved-ac rank" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416" />
   </a>
@@ -71,14 +72,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
- <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h2>Stack</h2>
 
 <h3>Language</h3>
 
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
