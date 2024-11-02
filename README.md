@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Inbae's%20Github&fontSize=90&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:bbdefb&height=300&section=header&text=Inbae's%20Github&fontColor=1a237e&fontSize=90&animation=twinkling)
 
 ### Hello World 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonInbae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+World%21&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -145,3 +145,5 @@ Here are some ideas to get you started:
 | [흡변구역](https://github.com/OhMyStomach) | 팀장 & 인프라 구축 & 프론트엔드/백엔드 개발자 | 2024.07 ~ 2024.09 |
 | [바당따라](https://github.com/AlongTheBlue) | 인프라 구축 & 백엔드 개발자 | 2024.05 ~ 2024.10 |
 | [나의 비밀 친구, 나비](https://github.com/MSF-Nabi) | 인프라 구축 & 백엔드 개발자 | 2024.06 ~ ing |
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:bbdefb&height=100&section=footer)
