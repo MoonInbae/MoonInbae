@@ -9,6 +9,7 @@ I am Moon Inbae. I hope to be a Backend Developer.
 
 **MYONGJI UNIV. CONVERGENCE SOFTWARE ENGINEERING**
 
+
 <p>2020.03 ~ ing : 명지대 융합소프트웨어학부 응용소프트웨어전공</p>
 <p>2021.03 ~ 2021.07 : Build - 명지대 교내 앱 개발 동아리
 <p>2021.07 ~ 2021.12 : SOTA - 명지대 교내 IT기반 서비스 개발 동아리
