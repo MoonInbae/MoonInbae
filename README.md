@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:bbdefb&height=300&section=header&text=Inbae's%20Github&fontColor=1a237e&fontSize=90&animation=twinkling)
-ㅁ
+
 ### Hello World 👋
 I am **Moon Inbae**. I hope to be a **Backend Developer**.
 
