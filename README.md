@@ -12,7 +12,7 @@ I am **Moon Inbae**. I hope to be a **Backend Developer**.
 <p>2020.03 ~ ing : 명지대 융합소프트웨어학부 응용소프트웨어전공</p>
 <p>2021.03 ~ 2021.07 : Build - 명지대 교내 앱 개발 동아리
 <p>2021.07 ~ 2021.12 : SOTA - 명지대 교내 IT기반 서비스 개발 동아리
-<p>2024.03 ~ ing : LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진</p>
+<p>2024.03 ~ 2024.12 : LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진</p>
 
 
 <h2>Contact</h2>
