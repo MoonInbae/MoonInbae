@@ -146,6 +146,7 @@ Here are some ideas to get you started:
 | [재난 생존기](https://github.com/Have-a-good-life) | 백엔드 개발자 | 2024.06 ~ 2024.06 |
 | [흡변구역](https://github.com/OhMyStomach) | 팀장 & 인프라 구축 & 프론트엔드/백엔드 개발자 | 2024.07 ~ 2024.09 |
 | [바당따라](https://github.com/AlongTheBlue) | 인프라 구축 & 백엔드 개발자 | 2024.05 ~ 2024.10 |
+| [STUDIO-EYE](https://github.com/STUDIO-EYE) | 백엔드 개발자 | 2024.03 ~ 2024.12 |
 | [나의 비밀 친구, 나비](https://github.com/MSF-Nabi) | 인프라 구축 & 백엔드 개발자 | 2024.06 ~ ing |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:bbdefb&height=100&section=footer)
