@@ -139,7 +139,15 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- back4app -->
 
-<h2>Project</h3>
+<h2>Awards</h2>
+
+- AWS 역량강화 캠프 경진대회 - 2등 (2024.06)
+- 창의적 SW프로그램 경진대회 - 대상 (2024.10)
+- 2024 관광데이터 활용 공모전 - 장려상 (2024.11)
+- 2024학년도 2학기 트랙2 실습 과정 경진대회 - 최우수상 (2024.12)
+
+
+<h2>Project</h2>
 
 | 프로젝트명 | 역할 | 개발 기간 |
 | --- | --- | --- |
