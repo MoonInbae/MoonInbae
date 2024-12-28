@@ -15,7 +15,7 @@ I am **Moon Inbae**. I hope to be a **Backend Developer**.
 <p>2024.03 ~ 2024.12 : LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진</p>
 
 
-<h2>Contact</h2>
+## 👤 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fuuuuuuuull_moon/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooninbae/)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Cards</h2>
+## 🎯 Cards
 
 <p>
 <!--   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=jolly" /> -->
@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 
 
 
-<h2>Stack</h2>
+## 📚 Stack
 
-<h3>Language</h3>
+### Language
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
 
-<h3>Framework</h3>
+### Framework
 
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <!-- swift -->
 <!-- ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
 
-<h3>Database</h3>
+### Database
 
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?&style=for-the-badge&logo=microsoft-access&logoColor=red)
 ![OracleSQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -113,13 +113,13 @@ Here are some ideas to get you started:
 <!-- ORM -->
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-<h3>Version Control</h3>
+### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/github_desktop-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3>Cooperation</h3>
+### Cooperation
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<h3>Infra</h3>
+### Infra
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=#6DB33F)
 ![Github Actions](https://img.shields.io/badge/Github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- back4app -->
 
-<h2>Awards</h2>
+## 🏆 Awards
 
 | 대회명 | 기관 | 수상 | 상금 | 수상 시기 |
 | --- | --- | --- | --- | --- |
@@ -149,7 +149,7 @@ Here are some ideas to get you started:
 | 2024학년도 2학기 트랙2 실습 과정 경진대회 | 명지대학교 | 최우수상 | KRW 2,000,000 | 2024.12 |
 
 
-<h2>Project</h2>
+## ⌨️ Project
 
 | 프로젝트명 | 역할 | 개발 기간 |
 | --- | --- | --- |
