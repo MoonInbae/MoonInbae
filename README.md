@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- ![MoonInbae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&theme=dark) -->
 ![MoonInbae's GitHub stats](https://github-readme-stats-six-gamma.vercel.app/api?username=MoonInbae&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-six-gamma.vercel.app/api/top-langs/?username=MoonInbae&theme=dark)
+![Top Langs](https://github-readme-stats-six-gamma.vercel.app/api/top-langs/?username=MoonInbae&layout=compact&theme=dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonInbae&langs_count=9&layout=compact&theme=dark) -->
 
 <!-- <p>
