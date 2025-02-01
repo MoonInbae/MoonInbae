@@ -97,9 +97,6 @@ Here are some ideas to get you started:
 <!-- Kotlin -->
 <!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
-
-<!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
-
 ### Framework
 
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
