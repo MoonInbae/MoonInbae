@@ -225,7 +225,7 @@ Here are some ideas to get you started:
 | [창의적 SW프로그램 경진대회](https://aict.mju.ac.kr/aict/9557/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYWljdCUyRjEzOTQlMkYyMTQ4NjIlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNmlzVmlldyUzRHRydWUlMjZwYXNzd29yZCUzRCUyNg%3D%3D) | 명지대학교 | 대상 | KRW 1,000,000 | 2024.10 |
 | [2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) | KAKAO X 한국관광공사 | 장려상 | KRW 500,000 | 2024.11 |
 | 2024학년도 2학기 트랙2 실습 과정 경진대회 | 명지대학교 | 최우수상 | KRW 2,000,000 | 2024.12 |
-| 2025학년도 명지대학교 졸업식 공로상 | 명지대학교 | 공로상 | - | 2025.02 |
+| 2025학년도 명지대학교 학위수여식 공로상 | 명지대학교 | 공로상 | - | 2025.02 |
 
 
 ## ⌨️ Project
