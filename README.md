@@ -14,7 +14,7 @@ I am **Moon Inbae**. I hope to be a **Backend Developer**.
 <p>2021.03 ~ 2021.07 : Build - 명지대학교 교내 앱 개발 동아리
 <p>2021.07 ~ 2021.12 : SOTA - 명지대학교 교내 IT기반 서비스 개발 동아리
 <p>2024.03 ~ 2024.12 : LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진</p>
-<p>2025.02 ~ ing : ROKAF - 대한민국 공군 154기 학사장교</p>
+<p>2025.02 ~ ing : ROKAF - 대한민국 공군 제 154기 학사장교</p>
 
 
 ## 👤 Contact
