@@ -4,17 +4,19 @@
 
 I am **Moon Inbae**. I hope to be a **Backend Developer**.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonInbae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+World%21&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMoonInbae?color=green&label=hits&size=small)](https://myhits.vercel.app)
 [![Update gist](https://github.com/MoonInbae/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/MoonInbae/productive-box/actions/workflows/schedule.yml)
 <hr>
 
 **MYONGJI UNIV. CONVERGENCE SOFTWARE ENGINEERING**
 
-<p>2020.03 ~ 2025.02 : 명지대학교 융합소프트웨어학부 응용소프트웨어전공</p>
-<p>2021.03 ~ 2021.07 : Build - 명지대학교 교내 앱 개발 동아리
-<p>2021.07 ~ 2021.12 : SOTA - 명지대학교 교내 IT기반 서비스 개발 동아리
-<p>2024.03 ~ 2024.12 : LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진</p>
-<p>2025.02 ~ ing : ROKAF - 대한민국 공군 제 154기 학사장교</p>
+| 기간               | 활동 내용 |
+|--------------------|-----------|
+| **2020.03 ~ 2025.02** | 명지대학교 융합소프트웨어학부 응용소프트웨어전공 |
+| **2021.03 ~ 2021.07** | Build - 명지대학교 교내 앱 개발 동아리 |
+| **2021.07 ~ 2021.12** | SOTA - 명지대학교 교내 IT기반 서비스 개발 동아리 |
+| **2024.03 ~ 2024.12** | LikeLion MJU - 멋쟁이사자처럼 명지대 서울 12기 BE 운영진 |
+| **2025.02 ~ ing**     | ROKAF - 대한민국 공군 제154기 학사장교 <br> 공군본부 직할 지능정보체계관리단 AI신기술체계개발대 모바일/XR체계개발팀 공군LTE앱체계개발담당 |
 
 
 ## 👤 Contact
