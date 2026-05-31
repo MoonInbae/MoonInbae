@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-I am **Moon Inbae**. I hope to be a **Backend Developer**.
+I am **Inbae Moon**, a Software Engineer serving in the **Republic of Korea Air Force**, specializing in **Backend Development** and **AI Systems**.
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMoonInbae?color=green&label=hits&size=small)](https://myhits.vercel.app)
 [![Update gist](https://github.com/MoonInbae/productive-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/MoonInbae/productive-box/actions/workflows/schedule.yml)
@@ -10,7 +10,7 @@ I am **Moon Inbae**. I hope to be a **Backend Developer**.
 
 **MYONGJI UNIV. CONVERGENCE SOFTWARE ENGINEERING**
 
-| 기간               | 활동 내용 |
+| 기간 | 활동 내용 |
 |--------------------|-----------|
 | **2020.03 ~ 2025.02** | 명지대학교 융합소프트웨어학부 응용소프트웨어전공 |
 | **2021.03 ~ 2021.07** | Build - 명지대학교 교내 앱 개발 동아리 |
@@ -227,12 +227,13 @@ Here are some ideas to get you started:
 
 | 대회명 | 기관 | 수상 | 상금 | 수상 시기 |
 | --- | --- | --- | --- | --- |
-| AWS 역량강화 캠프 경진대회 | 명지대학교 | 2등 | KRW 1,500,000 | 2024.06 |
-| [창의적 SW프로그램 경진대회](https://aict.mju.ac.kr/aict/9557/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYWljdCUyRjEzOTQlMkYyMTQ4NjIlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNmlzVmlldyUzRHRydWUlMjZwYXNzd29yZCUzRCUyNg%3D%3D) | 명지대학교 | 대상 | KRW 1,000,000 | 2024.10 |
-| [2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) | KAKAO X 한국관광공사 | 장려상 | KRW 500,000 | 2024.11 |
-| 2024학년도 2학기 트랙2 실습 과정 경진대회 | 명지대학교 | 최우수상 | KRW 2,000,000 | 2024.12 |
-| 2025학년도 명지대학교 학위수여식 공로상 | 명지대학교 | 공로상 | - | 2025.02 |
-| 대령급(연대장급)개인표창 | 지능정보체계관리단 | 정보체계개발 및 체계관리 지원 유공 | - | 2025.12 |
+| AWS 역량강화 캠프 경진대회 | 명지대학교 | 🥈 2등 | KRW 1,500,000 | 2024.06 |
+| [창의적 SW프로그램 경진대회](https://aict.mju.ac.kr/aict/9557/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYWljdCUyRjEzOTQlMkYyMTQ4NjIlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNmlzVmlldyUzRHRydWUlMjZwYXNzd29yZCUzRCUyNg%3D%3D) | 명지대학교 | 🥇 대상 | KRW 1,000,000 | 2024.10 |
+| [2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) | KAKAO X 한국관광공사 | 🏅 장려상 | KRW 500,000 | 2024.11 |
+| 2024학년도 2학기 트랙2 실습 과정 경진대회 | 명지대학교 | 🥇 최우수상 | KRW 2,000,000 | 2024.12 |
+| 2025학년도 명지대학교 학위수여식 공로상 | 명지대학교 | 🎖️ 공로상 | — | 2025.02 |
+| 공군 지능정보체계관리단장 표창 | 공군 지능정보체계관리단 | 🎖️ 대령급 개인표창 <br><sub>&nbsp;&nbsp;&nbsp;&nbsp;• 정보체계개발 및 체계관리 지원 유공</sub> | — | 2025.12 |
+| 해군본부 정책실장 표창 | 해군본부 | 🎖️ 소장급 개인표창 <br><sub>&nbsp;&nbsp;&nbsp;&nbsp;• 해군AI국회업무관리체계 개발 유공</sub> | — | 2026.05 |
 
 
 ## ⌨️ Project
