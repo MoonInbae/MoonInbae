@@ -70,7 +70,7 @@ I am **Inbae Moon**, a Software Engineer and Officer serving in the **Republic o
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 
 ### Database
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0078d7?style=flat&logo=h2-database&logoColor=white)
